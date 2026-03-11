@@ -33,13 +33,11 @@ public class Ashutosh extends Developer {
     String location   = "Bengaluru, India";
     String email      = "ashutosh4u4all@gmail.com";
 
-    String[] skills   = {
-        "Java", "Spring Boot", "React JS",
-        "HTML", "CSS", "JavaScript",
-        "SQL", "Manual Testing", "Postman"
-    };
+    String[] languages  = { "Java", "C", "Python", "HTML", "CSS", "JavaScript", "SQL" };
+    String[] frameworks = { "Spring Boot", "JSP", "Servlets", "JDBC", "React.js", "Node.js" };
+    String[] tools      = { "Git", "GitHub", "VS Code", "Eclipse", "MySQL", "MongoDB", "Playwright" };
 
-    String[] learning = { "Automation Testing" };
+    String[] learning   = { "Automation Testing with Playwright" };
 
     String[] funFacts = {
         "Coffee-powered coder",
@@ -61,32 +59,50 @@ public class Ashutosh extends Developer {
 
 <div align="center">
 
-### Languages & Frameworks
+### 🗣️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js&theme=dark&perline=6"/>
 </p>
 
-### Tools & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=6"/>
+</p>
+
+### ⚙️ Frameworks & Runtime
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,postman&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs&theme=dark&perline=6"/>
+</p>
+
+### 🛠️ Tools & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,mysql,mongodb&theme=dark&perline=6"/>
 </p>
 
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-7c3aed?style=for-the-badge&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Learning-a78bfa?style=for-the-badge&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 </div>
 
