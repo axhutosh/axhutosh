@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspal&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-a78bfa?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+&nbsp;
+<a href="https://portfolio-axhutoshs-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
@@ -143,6 +147,9 @@ public class Ashutosh extends Developer {
 </a>&nbsp;
 <a href="https://github.com/axhutosh">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://portfolio-axhutoshs-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
