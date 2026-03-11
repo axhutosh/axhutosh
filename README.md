@@ -55,69 +55,45 @@ public class Ashutosh extends Developer {
 
 ---
 
-## `> tech --stack`
+## `> tech --solar-system`
 
 <div align="center">
 
-### 🗣️ Languages
+> 🌌 *Each planet orbits around me — Inner ring: Languages · Middle ring: Frameworks · Outer ring: Tools*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js&theme=dark&perline=6"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=6"/>
-</p>
-
-### ⚙️ Frameworks & Runtime
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs&theme=dark&perline=6"/>
-</p>
-
-### 🛠️ Tools & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,mysql,mongodb&theme=dark&perline=6"/>
-</p>
-
-<br/>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<img src="./solar_system.svg" width="100%" alt="Tech Stack Solar System"/>
 
 </div>
 
 ---
 
-## `> git log --stats`
+## `> dev --mindset`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axhutosh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&border_radius=15&count_private=true" alt="Ashutosh's GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=axhutosh&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=ffffff&border_radius=15" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axhutosh&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=ffffff&border_radius=15&langs_count=8" alt="Top Languages"/>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║               💻  ASHUTOSH'S DEVELOPER PHILOSOPHY                   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   "First, solve the problem. Then, write the code."                  ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   🧠  Think before you type   →   Design beats brute force          ║
+║   🔩  Clean code always       →   Readable > Clever                 ║
+║   🔁  Iterate fast            →   Ship, learn, improve              ║
+║   📦  Backend first           →   Solid APIs power great UIs        ║
+║   🌐  Full stack vision       →   Own the problem end-to-end        ║
+║   🤖  Automate the boring     →   Let code do the heavy lifting     ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║        Java ──► Spring Boot ──► REST API ──► React UI               ║
+║                        └──► SQL / MongoDB                           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
