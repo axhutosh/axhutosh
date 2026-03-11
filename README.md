@@ -11,7 +11,7 @@
 <br/>
 
 <!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=axhutosh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=axhutosh&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&base=356"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspal&logoColor=white"/>
 &nbsp;
@@ -32,10 +32,6 @@ public class Ashutosh extends Developer {
     String role       = "Full Stack Developer";
     String location   = "Bengaluru, India";
     String email      = "ashutosh4u4all@gmail.com";
-
-    String[] languages  = { "Java", "C", "Python", "HTML", "CSS", "JavaScript", "SQL" };
-    String[] frameworks = { "Spring Boot", "JSP", "Servlets", "JDBC", "React.js", "Node.js" };
-    String[] tools      = { "Git", "GitHub", "VS Code", "Eclipse", "MySQL", "MongoDB", "Playwright" };
 
     String[] learning   = { "Automation Testing with Playwright" };
 
@@ -151,9 +147,7 @@ public class Ashutosh extends Developer {
 
 <br/><br/>
 
-[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=axhutosh&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
